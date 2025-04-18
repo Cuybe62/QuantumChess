@@ -1,0 +1,39 @@
+# Dépendances
+node_modules/
+jspm_packages/
+.npm/
+.pnpm-store/
+
+# Build et caches Next.js
+.next/
+.swc/
+
+# Fichiers d'environnement
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+next-env.d.ts
+
+# Logs et rapports
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
+*.log
+coverage/
+.nyc_output/
+
+# Caches divers
+.cache/
+.turbo/
+.vercel/
+
+# IDE et système
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.sln
